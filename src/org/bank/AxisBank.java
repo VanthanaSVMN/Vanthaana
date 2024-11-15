@@ -8,5 +8,12 @@ public class AxisBank {
 		System.out.println("this is deposit account");
 
 	}
+	
+	public void payment() {
+		// TODO Auto-generated method stub
+		
+		System.out.println("this is payment account");
+
+	}
 
 }
